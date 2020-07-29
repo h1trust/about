@@ -10,7 +10,7 @@
 
 > TODO: English translation  
 
-&nbsp; &nbsp; 组织名称的由来：Hit 是学校的缩写，结尾的 t 与 rust 连接构成 trust，就像在对值得信任的伙伴问好，同时 i 演化为 1，就像一面扬风的旗帜，充满变化与艺术感。
+&nbsp; &nbsp; 组织名称的由来：Hit 是 Harbin Institute of Technology 的缩写，结尾的 t 与 rust 连接构成 trust，就像在对值得信任的伙伴问好，代表着 Rust 程序的健壮性与可信度；i 演化为 1，就像一面扬风的旗帜，富有动态感，也有“最佳”之意，代表着 Rust 社区的快速发展与始终如一的多元开放。
 
 # 🌿 What we do - 我们做什么
 
