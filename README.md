@@ -23,6 +23,7 @@
 
 - 向本项目提交 PR，将自己的 ID 加入至 [Member List](https://github.com/h1trust/about/tree/master/community/member-list.md) 中。
 - 现有成员 Merge PR 后，稍后便会发起邀请，届时请查收邮箱。
+- 建议将 Organization Visibility 设为 Public 以便更好地宣传。
 - 欢迎加入 [Discord Server](https://discord.gg/dHJCEsC) 与大家共同讨论！  
 
 # 🌈 Thanks to - 鸣谢
