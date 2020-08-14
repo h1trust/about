@@ -1,7 +1,7 @@
 # SIG Community Member List
 
 **NOTE:**
-- Last update time: 2020-08-06
+- Last update time: 2020-08-14
 
 ## SIG Members
 
@@ -12,3 +12,4 @@
 - [drkying](https://github.com/drkying)
 - [lhd-code](https://github.com/lhd-code)
 - [yafeng19](https://github.com/yafeng19)
+- [jubgjf](https://github.com/jubgjf)
