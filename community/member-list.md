@@ -1,7 +1,7 @@
 # SIG Community Member List
 
 **NOTE:**
-- Last update time: 2020-08-14
+- Last update time: 2020-08-19
 
 ## SIG Members
 
