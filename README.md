@@ -6,7 +6,7 @@
 
 > Rust is blazingly fast and memory-efficient: with no runtime or garbage collector, it can power performance-critical services, run on embedded devices, and easily integrate with other languages. 
 
-&nbsp; &nbsp; 各位 HITer，如果你对操作系统、命令行工具、WebAssembly、分布式系统、数据库、微服务、边缘计算、DevOps、嵌入式设备、音视频分析与转码、加密货币、物联网等领域感兴趣，并愿意探索新的可能性，又或者是对 Programming Language Theory、Type System 等有兴趣，并希望得到一个简易的 Practical Intro，那就不妨加入 Hitrust，和大家共同成长吧！  
+&nbsp; &nbsp; 各位 HITer，如果你对操作系统、命令行工具、WebAssembly、分布式系统、数据库、区块链、微服务、边缘计算、DevOps、嵌入式设备、音视频分析与转码、加密货币、物联网等领域感兴趣，并愿意探索新的可能性，又或者是对 Programming Language Theory、Type System 等有兴趣，并希望得到一个简易的 Practical Intro，那就不妨加入 Hitrust，和大家共同成长吧！  
 
 > Rust’s rich type system and ownership model guarantee memory-safety and thread-safety — enabling you to eliminate many classes of bugs at compile-time. 
 
