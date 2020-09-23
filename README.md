@@ -1,4 +1,4 @@
-# 🦀️ About Hitrust - 关于 Hitrust
+# 🦀️ 关于 Hitrust
 
 > The Rust programming language has many qualities, but Rust’s greatest strength is the community of people who come together to make working in Rust a rewarding experience. 
 
@@ -12,14 +12,14 @@
 
 &nbsp; &nbsp; 组织名称的由来：Hit 是 Harbin Institute of Technology 的缩写，结尾的 t 与 rust 连接构成 trust，就像在对值得信任的伙伴问好，代表着 Rust 程序的健壮性与可信度；i 演化为 1，就像一面扬风的旗帜，富有动态感，也代表着 Rust 社区的快速发展与始终如一的多元开放。
 
-# 🌿 What we do - 我们做什么
+# 🌿 我们做什么
 
-- Promote Rust, its ecology and community. 
-- Maintain our own [awesome list](https://github.com/h1trust/awesome-hit-rust). Share resources and interesting projects about Rust. 
-- Build Rust projects together. Exchange ideas and thoughts.
-- Anything you want to do about sharing and creating. 
+- 推进 Rust，其生态以及社区。
+- 维护我们自己的 [awesome list](https://github.com/h1trust/awesome-hit-rust)。分享 Rust 相关资源和有趣的项目。
+- 共同构建 Rust 项目。交换灵感和想法。
+- 分享和创建任何你想的。
 
-# 🌸 How to join - 如何加入
+# 🌸 如何加入
 
 - 向本项目提交 PR，将自己的 ID 加入至 [Member List](https://github.com/h1trust/about/tree/master/community/member-list.md) 中。
 - 现有成员 Merge PR 后，稍后便会发起邀请，届时请查收邮箱。
@@ -29,6 +29,6 @@
 - 或者加入 [Discord Server](https://discord.gg/dHJCEsC) 与大家共同讨论。 
 
 
-# 🌈 Thanks to - 鸣谢
+# 🌈 鸣谢
 
-- [Brupst](https://github.com/brupst) Rustaceans from Beijing University of Posts and Telecommunications 来自北京邮电大学的朋友们
+- [Brupst](https://github.com/brupst) 来自北京邮电大学的 Rustaceans
