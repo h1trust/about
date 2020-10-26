@@ -1,7 +1,7 @@
 # SIG Community Member List
 
 **NOTE:**
-- Last update time: 2020-09-17
+- Last update time: 2020-10-26
 
 ## SIG Members
 
@@ -16,3 +16,4 @@
 - [jubgjf](https://github.com/jubgjf)
 - [zzccppp](https://github.com/zzccppp)
 - [KevinZonda](https://github.com/KevinZonda)
+- [Coelacanthus](https://github.com/ayalhw)
