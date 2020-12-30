@@ -1,7 +1,7 @@
 # SIG Community Member List
 
 **NOTE:**
-- Last update time: 2020-10-26
+- Last update time: 2020-11-30
 
 ## SIG Members
 
@@ -17,3 +17,4 @@
 - [zzccppp](https://github.com/zzccppp)
 - [KevinZonda](https://github.com/KevinZonda)
 - [Coelacanthus](https://github.com/ayalhw)
+- [closetool](https://github.com/closetool)
