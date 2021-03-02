@@ -27,7 +27,6 @@ The origin of the organisation's name: Hit is an acronym for Harbin Institute of
 - After merging the PR by the member, an invitation will be sent to you soon. Please check email at that time.
 - We recommend that set Organization Visibility to Public in order to improve the publicisation.
 - Following Twitter account [@h1trust](https://twitter.com/h1trust) to get newsfeed.
-- Welcome to our QQ Group: `base64 -d <<< "ODk1MDUxMTE3"`
 - Or join [Discord Server](https://discord.gg/dHJCEsC) to discuss with each other.
 
 # 🌈 Thanks to
