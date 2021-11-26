@@ -1,7 +1,7 @@
 # SIG Community Member List
 
 **NOTE:**
-- Last update time: 2020-11-30
+- Last update time: 2021-10-04
 
 ## SIG Members
 
@@ -18,3 +18,4 @@
 - [KevinZonda](https://github.com/KevinZonda)
 - [Coelacanthus](https://github.com/ayalhw)
 - [closetool](https://github.com/closetool)
+- [hilaolu](https://github.com/hilaolu)
