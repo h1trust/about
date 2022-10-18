@@ -1,7 +1,7 @@
 # SIG Community Member List
 
 **NOTE:**
-- Last update time: 2021-10-04
+- Last update time: 2022-10-18
 
 ## SIG Members
 
@@ -19,3 +19,4 @@
 - [Coelacanthus](https://github.com/ayalhw)
 - [closetool](https://github.com/closetool)
 - [hilaolu](https://github.com/hilaolu)
+- [Keuin](https://github.com/keuin)
